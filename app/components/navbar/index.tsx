@@ -9,7 +9,7 @@ import { useTranslations } from "next-intl";
 
 const DEFAULT_TITLE_TEXT_CLASSES = "font-queensila tracking-widest";
 const DEFAULT_TEXT_CLASSES = "font-base";
-const WHITE_TEXT_CLASSES = "text-avocado-light";
+const WHITE_TEXT_CLASSES = "text-black";
 const GREEN_TEXT_CLASSES = "text-avocado-100";
 
 const DEFAULT_NAV_CLASSES =
@@ -21,7 +21,7 @@ const DEFAULT_NAV_BUTTONS_CLASSES =
   "rounded-md px-3 py-2 text-sm font-medium transition-colors duration-500";
 const DEFAULT_MOBILE_BUTTONS_CLASSES =
   "block rounded-md px-3 py-2 text-base font-medium";
-const TRANSPARENT_NAV_BUTTONS_CLASSES = "text-avocado-light";
+const TRANSPARENT_NAV_BUTTONS_CLASSES = "text-black";
 const WHITE_NAV_BUTTONS_CLASSES = "text-avocado-100";
 const NAV_BUTTONS_HOVER_TRANSPARENT_CLASSES =
   "hover:bg-avocado-light hover:text-avocado-100";
@@ -77,7 +77,7 @@ export const Navbar = (
               type="button"
               className={classNames(
                 DEFAULT_HAMBURGUER_CLASSES,
-                isTrasnparent ? "text-white" : "text-avocado-100"
+                isTrasnparent ? "text-black" : "text-avocado-100"
               )}
               aria-controls="mobile-menu"
               aria-expanded={isOpen}
@@ -128,7 +128,8 @@ export const Navbar = (
               >
                 <div className="transform translate-y-[-10px]">
 
-                <Monogram size="small" color={monogramColor} />
+              <img src={'./images/logo.png'} className="w-16 h-16" />
+                {/* <Monogram size="small" color={monogramColor} /> */}
                 </div>
                 <h1
                   className={classNames(
@@ -137,7 +138,7 @@ export const Navbar = (
                     textClasses
                   )}
                 >
-                  Leticia {t("and")} João
+                  Leticia {t("and")} Joao
                 </h1>
               </Link>
             </div>

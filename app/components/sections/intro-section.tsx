@@ -6,7 +6,7 @@ import { useTranslations } from "next-intl";
 
 export const IntroSection = () => {
   return (
-    <div className="relative w-screen h-screen md:bg-fixed bg-[url('/images/cover.jpg')] bg-bottom bg-no-repeat bg-cover">
+    <div className="relative w-screen h-screen md:bg-fixed bg-[url('/images/flowers-background2.jpeg')] bg-bottom bg-contain">
       <DarkOverlay />
       <WeddingContent />
     </div>
@@ -14,7 +14,7 @@ export const IntroSection = () => {
 };
 
 const DarkOverlay = () => (
-  <div className="z-0 top-0 bottom-0 left-0 right-0 bg-black opacity-50 flex justify-center items-center absolute" />
+  <div className="z-0 top-0 bottom-0 left-0 right-0 bg-white opacity-75 flex justify-center items-center absolute" />
 );
 
 const CONTENT_CENTER_CLASSES =
@@ -34,14 +34,14 @@ const WeddingContent = () => {
     >
       <Typography.Heading
         type="h2"
-        className="text-8xl text-white font-bulgattie"
+        className="text-8xl text-black font-bulgattie "
       >
         Letícia
         <span className="block text-center md:inline"> {t("and")}</span>
         João
       </Typography.Heading>
 
-      <Typography.Paragraph className="text-white text-2xl text-center whitespace-nowrap uppercase">
+      <Typography.Paragraph className="text-black text-2xl text-center whitespace-nowrap uppercase">
         {t("date")}
       </Typography.Paragraph>
     </div>

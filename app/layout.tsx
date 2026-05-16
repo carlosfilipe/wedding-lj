@@ -6,8 +6,8 @@ import { NextIntlClientProvider } from "next-intl";
 import { getLocale } from "next-intl/server";
 
 export const metadata: Metadata = {
-  title: "Gabriela e Gabriel",
-  description: "Casamento de Gabriela e Gabriel",
+  title: "Letícia e João",
+  description: "Casamento de Letícia e João",
 };
 
 export default async function RootLayout({

@@ -33,7 +33,7 @@ export const AboutWedding = () => {
 
             <div className="lg:block hidden">
               <Image
-                src="/images/us.jpg"
+                src="/galeria/ROMANTICA-37.jpg"
                 alt={t("photosOfGabrielAndGabriela")}
                 width={400}
                 height={400}

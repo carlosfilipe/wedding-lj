@@ -1,1 +1,1 @@
-export const weddingDate = new Date("2025-08-23T16:30:00");
+export const weddingDate = new Date("2026-08-29T16:30:00");
