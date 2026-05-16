@@ -165,7 +165,7 @@ export const Navbar = (
           </div>
 
           {/* Locale Switcher */}
-          <div className={classNames(DEFAULT_NAV_BUTTONS_CLASSES, "text-xl")}>
+          {/* <div className={classNames(DEFAULT_NAV_BUTTONS_CLASSES, "text-xl")}>
             <LocaleSwitcher
               arrowClassName={
                 isTrasnparent
@@ -173,7 +173,7 @@ export const Navbar = (
                   : WHITE_NAV_BUTTONS_CLASSES
               }
             />
-          </div>
+          </div> */}
         </div>
       </div>
 
