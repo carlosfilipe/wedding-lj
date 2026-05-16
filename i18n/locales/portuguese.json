@@ -1,0 +1,70 @@
+{
+    "LocaleSwitcher": {
+        "label": "Idioma", 
+        "en": "Inglês",
+        "pt-BR": "Português",
+        "es": "Espanhol"
+    },
+    "Navbar":{
+        "home": "Início",
+        "galery": "Galeria", 
+        "gifts": "Presentes", 
+        "rsvp": "RSVP",
+        "and": "e"
+    },
+    "IntroSection": {
+        "and": "e", 
+        "date": "23 DE AGOSTO DE 2025"
+    }, 
+    "AboutWeddingSection": {
+        "info": "Dia 23 de Agosto de 2025 às 16h30 no Espaço Renascença, Brasília, DF.",
+        "photosOfGabrielAndGabriela": "Fotos do Gabriel e da Gabriela"
+    }, 
+    "Countdown": {
+        "days": "Dias", 
+        "hours": "Horas", 
+        "minutes": "Minutos", 
+        "seconds": "Segundos", 
+        "countdown": "Contagem Regressiva", 
+        "timePassed": "Já se passaram", 
+        "closeTimeMessage": "Faltam poucos dias para nosso sim.", 
+        "timeArrivedMessage": "O grande dia chegou - é hora começar nosso 'felizes para sempre'", 
+        "passedTimeMessage": "O grande dia passou, mas nossa história de amor está só começando.",
+        "longTimeMessage":  "A contagem regressiva iniciou! Logo estaremos juntos para nosso grande momento."
+    }, 
+    "GiftListSection": {
+        "seeOurGiftList": "Veja nossa lista de presentes",
+        "click": "Clique aqui"
+    }, 
+    "GalerySection": {
+        "seeOurGalery": "Destaques da galeria:",
+        "seeCompleteGalery": "Ver galeria completa"
+    }, 
+    "LastInfoSection": {
+        "seeYouThere": "Nos vemos lá!", 
+        "confirmYouPresence": "Não esqueça de confirmar sua presença! Envie um mensagem para a nossa cerimonialista no WhatsApp.",
+        "confirmPresence": "Confirmar Presença"
+    }, 
+    "OurStorySection": {
+        "ourStory": "Nossa História",
+        "paragraph1": "Mesmo tendo seguido caminhos parecidos, foi só fora de Brasília que nossos mundos realmente se encontraram. Ambos cursamos Engenharia de Software na UnB, mas só nos conhecemos em uma viagem com amigos para São Paulo, em dezembro de 2021. Pouco depois, no dia 12 de fevereiro de 2022, começamos a namorar.", 
+        "paragraph2": "Logo depois, a Gabriela se mudou para São Paulo a trabalho, e vivemos um tempo de namoro à distância, com muitas saudades e reencontros especiais. Em fevereiro de 2023, o Gabriel também se mudou pra lá, e finalmente começamos nossa vida juntos.", 
+        "paragraph3": "Foi então que a Bernadete entrou na história — nossa cachorrinha salsicha que virou a alegria da casa. Em junho de 2024 veio o pedido de casamento, e agora estamos contando os dias para o nosso grande dia: 23 de agosto de 2025."
+    }, 
+    "Footer": {
+        "footer": "Feito com carinho pela gente! ❤️"
+    }, 
+    "RsvpPage": {
+        "confirmYourPresence": "Corfirme sua Presença", 
+        "yourPresenceIsImportant": "Sua presença é muito importante para nós!\nPara confirmar, por favor envie um mensagem para a nossa cerimonialista no WhatsApp.", 
+        "countOnYou": "Contamos com você para tornar esse dia ainda mais especial!", 
+        "confirmPresence": "Confirmar Presença"
+    }, 
+    "GiftPage": {
+        "paragraph": "Sua presença é o melhor presente que poderíamos receber! Mas, se você quiser nos presentear, ficaremos muito felizes! Fizemos uma lista de presentes na Camicado. Mas também aceitamos presentes em dinheiro, que serão usados para a nossa lua de mel! Para fazer um PIX use o QR Code abaixo:", 
+        "or": "ou", 
+        "listOfGifts": "Lista de Presentes", 
+        "giftLink": "Veja a lista na Camicado", 
+        "pixMessage": "Copie o código do PIX"
+    }
+}

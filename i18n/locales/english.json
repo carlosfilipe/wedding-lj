@@ -1,0 +1,71 @@
+{
+    "LocaleSwitcher": {
+      "label": "Language",
+      "en": "English",
+      "pt-BR": "Portuguese",
+      "es": "Spanish"
+    },
+    "Navbar": {
+      "home": "Home",
+      "galery": "Gallery",
+      "gifts": "Gifts",
+      "rsvp": "RSVP",
+      "and": "and"
+    },
+    "IntroSection": {
+      "and": "and",
+      "date": "AUGUST 23, 2025"
+    },
+    "AboutWeddingSection": {
+      "info": "August 23, 2025 at 4:30 PM at Renascença Space, Brasília, DF.",
+      "photosOfGabrielAndGabriela": "Photos of Gabriel and Gabriela"
+    },
+    "Countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "countdown": "Countdown",
+      "timePassed": "Time has passed",
+      "closeTimeMessage": "Just a few days until our 'yes'.",
+      "timeArrivedMessage": "The big day is here – time to start our 'happily ever after'",
+      "passedTimeMessage": "The big day has passed, but our love story is just beginning.",
+      "longTimeMessage": "The countdown has begun! Soon we'll be together for our big moment."
+    },
+    "GiftListSection": {
+      "seeOurGiftList": "See our gift list",
+      "click": "Click here"
+    },
+    "GalerySection": {
+      "seeOurGalery": "Gallery highlights:",
+      "seeCompleteGalery": "See complete gallery"
+    },
+    "LastInfoSection": {
+      "seeYouThere": "See you there!",
+      "confirmYouPresence": "Don't forget to confirm your presence! Send a message to our wedding planner on WhatsApp.",
+      "confirmPresence": "Confirm Attendance"
+    },
+    "OurStorySection": {
+      "ourStory": "Our Story",
+      "paragraph1": "Even though we followed similar paths, it was only outside Brasília that our worlds truly met. We both studied Software Engineering at UnB, but we only met during a trip with friends to São Paulo in December 2021. Shortly after, on February 12, 2022, we started dating.",
+      "paragraph2": "Soon after, Gabriela moved to São Paulo for work, and we experienced a long-distance relationship filled with longing and special reunions. In February 2023, Gabriel moved there too, and we finally began our life together.",
+      "paragraph3": "That's when Bernadete joined the story — our little dachshund who became the joy of our home. In June 2024 came the proposal, and now we're counting down the days to our big day: August 23, 2025."
+    },
+    "Footer": {
+      "footer": "Made with love by us! ❤️"
+    },
+    "RsvpPage": {
+      "confirmYourPresence": "Confirm Your Attendance",
+      "yourPresenceIsImportant": "Your presence is very important to us!\nTo confirm, please send a message to our wedding planner on WhatsApp.",
+      "countOnYou": "We’re counting on you to make this day even more special!",
+      "confirmPresence": "Confirm Attendance"
+    },
+    "GiftPage": {
+      "paragraph": "Your presence is the greatest gift we could ask for! But if you'd like to give us something, we’d be very happy! We created a gift list at Camicado. We also welcome cash gifts, which we’ll use for our honeymoon! To send a PIX, use the QR Code below:",
+      "or": "or",
+      "listOfGifts": "Gift List",
+      "giftLink": "View the list at Camicado",
+      "pixMessage": "Copy the PIX code"
+    }
+  }
+  

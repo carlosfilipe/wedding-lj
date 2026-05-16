@@ -1,0 +1,88 @@
+@import "tailwindcss";
+
+/**
+ * Custom styles for the wedding app
+ */
+@font-face {
+  font-family: Montserrat;
+  src: url("../fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: Bulgattie;
+  src: url("../fonts/Bulgattie.ttf");
+}
+
+@font-face {
+  font-family: Queensila;
+  src: url("../fonts/Queensila400.ttf");
+}
+
+@font-face {
+  font-family: QueensilaNumbers;
+  src: url("../fonts/Queensila.otf");
+}
+
+@font-face {
+  font-family: PirouetteLTStd-Separate2;
+  src: url("../fonts/pirouetteltstd-separate2.otf");
+}
+
+.scrollbar-hidden {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+@theme {
+  /* Colors */
+  --color-avocado-50: #aab58b;
+  --color-avocado-100: #68805f;
+  --color-avocado-200: #3b422e;
+  --color-avocado-light: #fffae8;
+
+  /* Fonts */
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-bulgattie: "Bulgattie", sans-serif;
+  --font-queensila: "Queensila", sans-serif;
+  --font-queensila-numbers: "QueensilaNumbers", sans-serif;
+  --font-pirouetteltstd: "PirouetteLTStd-Separate2", sans-serif;
+  --font-base: var(--font-montserrat);
+
+  /* Animations */
+  --animate-fadeIn: fadeIn .2s ease-in-out;
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  --animate-up: up .8s ease-in-out;
+
+  @keyframes up {
+    0% { transform: translateY(100%); }
+    100% { transform: translateY(0); }
+  }
+
+  --animate-entrance: entrance .8s ease-in-out;
+
+  @keyframes entrance {
+    0% { transform: translateY(50%); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+  }
+}
+
+@layer {
+  body {
+    font-family: var(--font-base);
+    font-weight: 200;
+    color: var(--color-avocado-200);
+  }
+}
+
+@utility no-scrollbar {
+  @apply [scrollbar-width:none] [&::-webkit-scrollbar]:hidden;
+}

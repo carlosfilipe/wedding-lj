@@ -1,0 +1,71 @@
+{
+    "LocaleSwitcher": {
+      "label": "Idioma",
+      "en": "Inglés",
+      "pt-BR": "Portugués",
+      "es": "Español"
+    },
+    "Navbar": {
+      "home": "Inicio",
+      "galery": "Galería",
+      "gifts": "Regalos",
+      "rsvp": "RSVP",
+      "and": "y"
+    },
+    "IntroSection": {
+      "and": "y",
+      "date": "23 DE AGOSTO DE 2025"
+    },
+    "AboutWeddingSection": {
+      "info": "El 23 de agosto de 2025 a las 16:30 en el Espaço Renascença, Brasília, DF.",
+      "photosOfGabrielAndGabriela": "Fotos de Gabriel y Gabriela"
+    },
+    "Countdown": {
+      "days": "Días",
+      "hours": "Horas",
+      "minutes": "Minutos",
+      "seconds": "Segundos",
+      "countdown": "Cuenta regresiva",
+      "timePassed": "Ya ha pasado el tiempo",
+      "closeTimeMessage": "Faltan pocos días para nuestro 'sí'.",
+      "timeArrivedMessage": "Llegó el gran día – es hora de comenzar nuestro 'felices para siempre'",
+      "passedTimeMessage": "El gran día ya pasó, pero nuestra historia de amor apenas comienza.",
+      "longTimeMessage": "¡La cuenta regresiva ha comenzado! Pronto estaremos juntos para nuestro gran momento."
+    },
+    "GiftListSection": {
+      "seeOurGiftList": "Mira nuestra lista de regalos",
+      "click": "Haz clic aquí"
+    },
+    "GalerySection": {
+      "seeOurGalery": "Destacados de la galería:",
+      "seeCompleteGalery": "Ver galería completa"
+    },
+    "LastInfoSection": {
+      "seeYouThere": "¡Nos vemos allá!",
+      "confirmYouPresence": "¡No te olvides de confirmar tu presencia! Envía un mensaje a nuestra organizadora en WhatsApp.",
+      "confirmPresence": "Confirmar Asistencia"
+    },
+    "OurStorySection": {
+      "ourStory": "Nuestra Historia",
+      "paragraph1": "Aunque seguimos caminos similares, fue fuera de Brasília donde realmente se encontraron nuestros mundos. Ambos estudiamos Ingeniería de Software en la UnB, pero nos conocimos en un viaje con amigos a São Paulo en diciembre de 2021. Poco después, el 12 de febrero de 2022, empezamos a salir.",
+      "paragraph2": "Poco después, Gabriela se mudó a São Paulo por trabajo y vivimos una etapa de relación a distancia, con mucha nostalgia y reencuentros especiales. En febrero de 2023, Gabriel también se mudó allí y finalmente comenzamos nuestra vida juntos.",
+      "paragraph3": "Fue entonces cuando apareció Bernadete — nuestra perrita salchicha que se convirtió en la alegría del hogar. En junio de 2024 llegó la propuesta de matrimonio, ¡y ahora estamos contando los días para nuestro gran día: 23 de agosto de 2025!"
+    },
+    "Footer": {
+      "footer": "¡Hecho con cariño por nosotros! ❤️"
+    },
+    "RsvpPage": {
+      "confirmYourPresence": "Confirma tu Asistencia",
+      "yourPresenceIsImportant": "¡Tu presencia es muy importante para nosotros!\nPara confirmar, por favor envía un mensaje a nuestra organizadora en WhatsApp.",
+      "countOnYou": "¡Contamos contigo para hacer este día aún más especial!",
+      "confirmPresence": "Confirmar Asistencia"
+    },
+    "GiftPage": {
+      "paragraph": "¡Tu presencia es el mejor regalo que podríamos recibir! Pero si deseas hacernos un regalo, ¡nos hará muy felices! Hicimos una lista de regalos en Camicado. También aceptamos obsequios en efectivo que usaremos para nuestra luna de miel. Para hacer un PIX usa el código QR abajo:",
+      "or": "o",
+      "listOfGifts": "Lista de Regalos",
+      "giftLink": "Ver la lista en Camicado",
+      "pixMessage": "Copia el código PIX"
+    }
+  }
+  
