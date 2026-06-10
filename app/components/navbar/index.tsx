@@ -10,7 +10,7 @@ import { useTranslations } from "next-intl";
 const DEFAULT_TITLE_TEXT_CLASSES = "font-queensila tracking-widest";
 const DEFAULT_TEXT_CLASSES = "font-base";
 const WHITE_TEXT_CLASSES = "text-black";
-const GREEN_TEXT_CLASSES = "text-avocado-100";
+const GREEN_TEXT_CLASSES = "text-black";
 
 const DEFAULT_NAV_CLASSES =
   "fixed top-0 left-0 right-0 z-50 transition-colors duration-500";
@@ -24,9 +24,9 @@ const DEFAULT_MOBILE_BUTTONS_CLASSES =
 const TRANSPARENT_NAV_BUTTONS_CLASSES = "text-black";
 const WHITE_NAV_BUTTONS_CLASSES = "text-avocado-100";
 const NAV_BUTTONS_HOVER_TRANSPARENT_CLASSES =
-  "hover:bg-avocado-light hover:text-avocado-100";
+  "hover:bg-rosa-light hover:text-white";
 const NAV_BUTTONS_HOVER_WHITE_CLASSES =
-  "hover:bg-avocado-50 hover:text-avocado-light";
+  "hover:bg-rosa-light hover:text-white";
 const ACTIVE_BUTTON = "bg-avocado-100 text-avocado-light";
 
 const DEFAULT_HAMBURGUER_CLASSES =

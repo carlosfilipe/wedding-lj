@@ -15,16 +15,16 @@ export const OurStory = () => {
       <SectionLayout className="flex justify-center items-center pb-0">
         {isVisible ? (
           <div className="animate-fadeIn">
-            <Typography.Heading type="h2" className="text-center md:text-4xl">
+            <Typography.Heading type="h2" className="text-center md:text-4xl text-gray-600">
               {t("ourStory")}
             </Typography.Heading>
-            <Typography.Paragraph className="text-center">
+            <Typography.Paragraph className="text-center text-gray-800">
               {t("paragraph1")}
             </Typography.Paragraph>
-            <Typography.Paragraph className="text-center">
+            <Typography.Paragraph className="text-center text-gray-800">
               {t("paragraph2")}
             </Typography.Paragraph>
-            <Typography.Paragraph className="text-center">
+            <Typography.Paragraph className="text-center text-gray-800">
               {t("paragraph3")}
             </Typography.Paragraph>
           </div>

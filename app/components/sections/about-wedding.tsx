@@ -23,11 +23,11 @@ export const AboutWedding = () => {
               <Countdown countDate={weddingDate} />
               <div className="mt-10  max-w-md">
                 
-                <Typography.Heading type="h2" className="md:text-4xl text-center">
+                <Typography.Heading type="h2" className="md:text-4xl text-center text-gray-600">
                   {"Cerimônia"}
                 </Typography.Heading>
 
-                <Typography.Paragraph className="text-avocado-200 text-center text-2xl">
+                <Typography.Paragraph className="text-gray-600 text-center text-2xl">
                   {"Dia 29 de Agosto de 2026 às 10h30 na Paróquia São João Dom Bosco, Núcleo Bandeirante - DF."}
                 </Typography.Paragraph>
                 
@@ -38,11 +38,11 @@ export const AboutWedding = () => {
               
               <div className="mt-10  max-w-md">
                 
-                <Typography.Heading type="h2" className="md:text-4xl text-center">
+                <Typography.Heading type="h2" className="md:text-4xl text-center text-gray-600">
                   {"Recepção"}
                 </Typography.Heading>
 
-                <Typography.Paragraph className="text-avocado-200 text-center text-2xl">
+                <Typography.Paragraph className="text-gray-600 text-center text-2xl">
                   {"Dia 29 de Agosto de 2026 às 12h00 no Green Park, Park Way - DF."}
                 </Typography.Paragraph>
                 

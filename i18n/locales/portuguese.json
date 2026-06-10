@@ -9,7 +9,7 @@
         "home": "Início",
         "galery": "Galeria", 
         "gifts": "Presentes", 
-        "rsvp": "RSVP",
+        "rsvp": "Presença",
         "and": "e"
     },
     "IntroSection": {
@@ -52,7 +52,7 @@
         "paragraph3": "Foi então que a Bernadete entrou na história — nossa cachorrinha salsicha que virou a alegria da casa. Em junho de 2024 veio o pedido de casamento, e agora estamos contando os dias para o nosso grande dia: 23 de agosto de 2025."
     }, 
     "Footer": {
-        "footer": "Feito com carinho pela gente! ❤️"
+        "footer": "Nos vemos lá ❤️"
     }, 
     "RsvpPage": {
         "confirmYourPresence": "Corfirme sua Presença", 
@@ -64,7 +64,7 @@
         "paragraph": "Sua presença é o melhor presente que poderíamos receber! Mas, se você quiser nos presentear, ficaremos muito felizes! Fizemos uma lista de presentes na Camicado. Mas também aceitamos presentes em dinheiro, que serão usados para a nossa lua de mel! Para fazer um PIX use o QR Code abaixo:", 
         "or": "ou", 
         "listOfGifts": "Lista de Presentes", 
-        "giftLink": "Veja a lista na Camicado", 
+        "giftLink": "Veja a lista de Presentes", 
         "pixMessage": "Copie o código do PIX"
     }
 }

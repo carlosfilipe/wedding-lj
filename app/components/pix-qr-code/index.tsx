@@ -22,7 +22,7 @@ export const PixQrCode = ({ text }: { text: string }) => {
 
   return (
     <Button
-      className={classNames("p-3 w-fit flex flex-col items-center")}
+      className={classNames("p-3 w-fit flex flex-col items-center bg-avocado-100 hover:bg-avocado-50")}
       onClick={() => {
         navigator?.clipboard
           ?.writeText(PIX_COPY_CODE)

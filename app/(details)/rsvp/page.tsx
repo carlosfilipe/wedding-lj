@@ -8,7 +8,7 @@ export default function Rsvp() {
 
   return (
     <div className="flex-grow flex flex-col justify-center items-center text-center">
-      <div className="md:pt-0 pt-5 max-w-7xl flex flex-col items-center">
+      <div className="md:pt-0 pt-5 max-w-7xl flex flex-col items-center text-gray-600">
         <Typography.Heading>{t("confirmYourPresence")}</Typography.Heading>
 
         <Typography.Paragraph>

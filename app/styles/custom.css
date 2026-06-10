@@ -39,10 +39,11 @@
 
 @theme {
   /* Colors */
-  --color-avocado-50: #aab58b;
-  --color-avocado-100: #68805f;
-  --color-avocado-200: #3b422e;
-  --color-avocado-light: #fffae8;
+  --color-avocado-50: #E8731A;    /* laranja bem claro */
+  --color-avocado-100: #FFBD80;   /* laranja principal */
+  --color-avocado-200: #4A7BC4;   /* azul */
+  --color-avocado-light: #FAF6F0; /* creme (fundo nav) */
+  --color-rosa-light: #FFB8D1;
 
   /* Fonts */
   --font-montserrat: "Montserrat", sans-serif;

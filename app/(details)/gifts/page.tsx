@@ -11,10 +11,10 @@ export default function Gifts() {
   return (
     <div className="flex-grow flex flex-col justify-center items-center">
       <div className="md:pt-0 pt-5 max-w-7xl">
-        <Typography.Heading className="text-center">
+        <Typography.Heading className="text-center text-gray-600">
           {t("listOfGifts")}
         </Typography.Heading>
-        <Typography.Paragraph className="text-center">
+        <Typography.Paragraph className="text-center text-gray-600">
           {t("paragraph")}
         </Typography.Paragraph>
         <div className="flex md:flex-row flex-col mt-10 items-center">

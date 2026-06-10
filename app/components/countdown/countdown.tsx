@@ -10,12 +10,12 @@ export const Countdown = ({ countDate }: { countDate: Date }) => {
   const isPastedTime = countDown.days < 0;
 
   return (
-    <div className="flex flex-col items-center justify-center">
-      <Typography.Heading type="h2" className="md:text-4xl">
+    <div className="flex flex-col items-center justify-center text-gray-600">
+      <Typography.Heading type="h2" className="md:text-4xl text-gray-600">
         {isPastedTime ? t("timePassed") : t("countdown")}
       </Typography.Heading>
 
-      <Typography.Paragraph className="text-center">
+      <Typography.Paragraph className="text-center text-gray-600">
         {t(getCountdownMessage(countDown.days))}
       </Typography.Paragraph>
 
@@ -32,15 +32,15 @@ export const Countdown = ({ countDate }: { countDate: Date }) => {
   );
 };
 
-const VerticalLine = () => <div className="w-[1px] h-[4rem] bg-avocado-200" />;
+const VerticalLine = () => <div className="w-[1px] h-[4rem] bg-gray-300" />;
 
 const Count = ({ time, unit }: { time: number; unit: string }) => {
   return (
     <div className="h-[5rem] md:w-[7rem] w-[5.5rem]  flex flex-col items-center justify-center">
-      <Typography.Paragraph className="md:text-4xl text-2xl text-avocado-200">
+      <Typography.Paragraph className="md:text-4xl text-2xl text-gray-600">
         {time}
       </Typography.Paragraph>
-      <Typography.Paragraph className="text-avocado-200">
+      <Typography.Paragraph className="text-gray-600">
         {unit}
       </Typography.Paragraph>
     </div>

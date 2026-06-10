@@ -10,7 +10,7 @@ type ButtonProps = {
 
 const DEFAULT_BUTTON_CLASSES =
   "text-sm cursor-pointer rounded-lg p-2 font-medium";
-const BUTTON_FILLED_HOVER_CLASSES = "hover:bg-avocado-200 hover:text-avocado-light";
+const BUTTON_FILLED_HOVER_CLASSES = "hover:bg-avocado-50 hover:text-avocado-light";
 const BUTTON_FILLED_CLASSES = "bg-avocado-100 text-avocado-light shadow-md"
 const BUTTON_TRANSITION_CLASSES = "transition-colors duration-500";
 const BUTTON_OUTLINE_CLASSES = "border-2 border-avocado-100 text-avocado-100";
