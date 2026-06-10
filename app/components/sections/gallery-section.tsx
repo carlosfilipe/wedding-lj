@@ -13,8 +13,8 @@ export const GallerySection = () => {
     router.push(`/gallery?photo=${images[image]?.src}`);
   };
   return (
-    <div className="w-screen mt-20">
-      <Typography.Heading type="h2" className="mx-10 text-4xl">
+    <div className="w-screen mt-20 bg-avocado-100 pb-7 py-7">
+      <Typography.Heading type="h2" className="mx-10 text-4xl text-gray-600 text-center mt-1">
         {t("seeOurGalery")}
       </Typography.Heading>
       <GalleryGrid
@@ -32,7 +32,7 @@ export const GallerySection = () => {
       />
       <Link
         href="/gallery"
-        className="font-medium text-avocado-100 hover:text-avocado-200 mt-5 flex justify-center items-center gap-2 "
+        className="font-medium hover:text-avocado-50 mt-5 flex justify-center items-center gap-2 "
       >
         {t("seeCompleteGalery")} <ArrowForwardIcon style={{ margin: 0 }} />
       </Link>

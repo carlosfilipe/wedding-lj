@@ -24,7 +24,7 @@ export default function Home() {
       <AboutWedding />
       <GoToGiftsSection />
       <OurStory />
-      {/* <GallerySection />  TODO: defeito aqui */}
+      <GallerySection />
       <LastInfoSection />
     </div>
   );
