@@ -24,9 +24,9 @@ const DEFAULT_MOBILE_BUTTONS_CLASSES =
 const TRANSPARENT_NAV_BUTTONS_CLASSES = "text-black";
 const WHITE_NAV_BUTTONS_CLASSES = "text-avocado-100";
 const NAV_BUTTONS_HOVER_TRANSPARENT_CLASSES =
-  "hover:bg-rosa-light hover:text-white";
+  "hover:bg-peach hover:text-white";
 const NAV_BUTTONS_HOVER_WHITE_CLASSES =
-  "hover:bg-rosa-light hover:text-white";
+  "hover:bg-peach hover:text-white";
 const ACTIVE_BUTTON = "bg-avocado-100 text-avocado-light";
 
 const DEFAULT_HAMBURGUER_CLASSES =

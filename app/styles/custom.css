@@ -39,11 +39,14 @@
 
 @theme {
   /* Colors */
-  --color-avocado-50: #E8731A;    /* laranja bem claro */
-  --color-avocado-100: #FFBD80;   /* laranja principal */
-  --color-avocado-200: #4A7BC4;   /* azul */
-  --color-avocado-light: #FAF6F0; /* creme (fundo nav) */
-  --color-rosa-light: #FFB8D1;
+  --color-avocado-50:    #F5CBA7;  /* Blush Pink  → hover dos botões */
+  --color-avocado-100:  #A8C8E8;  /* Sky Blue    → botão ativo (navbar "Início") */
+  --color-avocado-200:  #7A9CC0;  /* Sky Blue escuro → texto, bordas */
+  --color-avocado-light: #FAF6F0; /* creme       → fundo (mantém) */
+
+  /* Novo: para a faixa de presentes e botão "Confirmar Presença" */
+  --color-rosa-light:   #F2B5C0;  /* Blush mais saturado */
+  --color-peach:        #F5CBA7;  /* Soft Peach  → faixa de presentes */
 
   /* Fonts */
   --font-montserrat: "Montserrat", sans-serif;
